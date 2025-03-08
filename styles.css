@@ -1,0 +1,104 @@
+/* Estilos generales */
+body {
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Estilos para el título principal */
+#titulo {
+    font-size: 2.5em;
+    color: #157957;
+    margin-bottom: 20px;
+}
+
+/* Estilos para el subtítulo */
+#subtitulo {
+    font-size: 2em;
+    color: blue;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+/* Estilos para párrafos */
+p {
+    font-size: 1em;
+    margin-bottom: 15px;
+}
+
+/* Estilos para texto destacado */
+.destacado {
+    font-weight: bold;
+    color: #eec75c;
+}
+
+/* Estilos para enlaces */
+a {
+    color: #ee111c;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Estilos para texto especial */
+.especial {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+    color: #f1a707;
+    font-weight: bold;
+}
+
+.resaltado {
+    font-style: normal;
+    color: #f107b7;
+    font-weight: bold;
+}
+
+/* Estilos para la tabla */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    color: #157957;
+    background-color: #3498db;
+}
+
+table, th, td {
+    border: 1px solid black;
+    color: #ee111c;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+
+/* Estilos para el contenido adicional */
+#adicional {
+    background-color: #ecf0f1;
+    padding: 15px;
+    border-left: 5px solid #3498db;
+    margin-top: 20px;
+}
+
+#adicional p {
+    margin-bottom: 10px;
+}
+
+#adicional a {
+    color: #e67e22;
+}
+
+#adicional a:hover {
+    color: #b36f37;
+}
+
+#adicional p {
+    color:#56a118d2
+}
