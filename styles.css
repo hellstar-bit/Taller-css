@@ -71,6 +71,7 @@ table {
 table, th, td {
     border: 1px solid black;
     color: #ee111c;
+    background-color: #3498db;
 }
 
 th, td {
